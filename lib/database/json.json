@@ -1,0 +1,46 @@
+{
+  
+  "users": {
+
+    "admin": {
+        "name": "admin",
+        "password": "password",
+        "group": "users",
+        "role": "admin"
+    },
+
+    "bruno": {
+        "name": "Bruno Casanova",
+        "password": "lovechicks",
+        "group": "users",
+        "role": "admin"
+    }
+
+  },
+
+  "chicks": {
+
+    "kaley": {
+        "name": "kaley Cuoco",
+        "password": "faceandbubs",
+        "group": "users",
+        "role": "hotchick"
+    },
+
+    "joss": {
+        "name": "Joss Stone",
+        "password": "ohmygood",
+        "group": "users",
+        "role": "hotchick"
+    },
+
+    "jessica": {
+        "name": "Jessica Alba",
+        "password": "thataxx",
+        "group": "users",
+        "role": "hotchick"
+    }
+
+  }
+
+}

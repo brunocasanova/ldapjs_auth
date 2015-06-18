@@ -1,0 +1,20 @@
+{
+  "name": "ldaptest",
+  "version": "0.0.1",
+  "description": "ldaptest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ldap",
+    "test",
+    "brunocasanova"
+  ],
+  "author": "brunocasanova",
+  "license": "ISC",
+  "dependencies": {
+    "ldapjs": "^0.7.1",
+    "mysql": "^2.7.0"
+  }
+}

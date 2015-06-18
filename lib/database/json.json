@@ -23,21 +23,21 @@
     "kaley": {
         "name": "kaley Cuoco",
         "password": "faceandbubs",
-        "group": "users",
+        "group": "chicks",
         "role": "hotchick"
     },
 
     "joss": {
         "name": "Joss Stone",
         "password": "ohmygood",
-        "group": "users",
+        "group": "chicks",
         "role": "hotchick"
     },
 
     "jessica": {
         "name": "Jessica Alba",
         "password": "thataxx",
-        "group": "users",
+        "group": "chicks",
         "role": "hotchick"
     }
 
